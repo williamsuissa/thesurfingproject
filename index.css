@@ -1,11 +1,11 @@
 
 .jumbotron {
-	background-image: url('bootsurf.jpg');
-	background-position: center;
-	background-size:cover;
-	color:#fff;
-	height: 500px;
-        opacity: 0.3;
+   background-image: url('bootsurf.jpg');
+   background-position: center;
+   background-size:cover;
+   color:#fff;
+   height: 500px;
+   opacity: 0.3;
 }
 
   /* Centre l'image et la met bien sur tous les écrans */
