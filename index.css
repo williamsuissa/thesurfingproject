@@ -1,5 +1,9 @@
 .jumbotron {
   /* Choisis la hauteur ici */
+  background-image:url("bootsurf.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
   height: 100px;
 
   /* Tu lui donnes une image de background */
