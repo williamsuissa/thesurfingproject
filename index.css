@@ -3,7 +3,7 @@
    background-image: url('bootsurf.jpg');
    background-position: center;
    background-size:cover;
-   color:#fff;
+   background-color:#grey;
    height: 500px;
    opacity: 0.3;
 }
