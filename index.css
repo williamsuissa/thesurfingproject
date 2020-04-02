@@ -1,12 +1,14 @@
+.jumbotron-hero {
+  /* Choisis la hauteur ici */
+  height: 500px;
 
-.jumbotron {
-   background-image: url("bootsurf.jpg");
-   background-position: center;
-   background-repeat: no-repeat;
-   background-size:cover;
-   background-color:#grey;
-   height: 500px;
-   opacity: 0.3;
+  /* Tu lui donnes une image de background */
+  background-image: url("bootsurf.jpg");
+
+  /* Centre l'image et la met bien sur tous les écrans */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
   /* Centre l'image et la met bien sur tous les écrans */
