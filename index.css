@@ -2,6 +2,7 @@
 .jumbotron {
    background-image: url("bootsurf.jpg");
    background-position: center;
+   background-repeat: no-repeat;
    background-size:cover;
    background-color:#grey;
    height: 500px;
